@@ -4,7 +4,7 @@ print_hello() {
 
 print_hello
 
-print_argument() {
+print_arguments() {
   echo frist argument $1
   echo second argument $2
   echo all arguments - $*
@@ -12,3 +12,4 @@ print_argument() {
 
 }
 print_arguments abc 123 xyz
+
