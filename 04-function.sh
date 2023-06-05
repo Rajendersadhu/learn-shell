@@ -2,7 +2,7 @@ print_hello() {
   echo Hello world
 }
 
-print_hello
+print_Hello
 
 print_arguments() {
   echo frist argument $1
@@ -11,4 +11,5 @@ print_arguments() {
   echo no of arguments - $#
 }
 print_arguments abc 123 xyz
+
 
