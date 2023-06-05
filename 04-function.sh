@@ -9,7 +9,6 @@ print_arguments() {
   echo second argument $2
   echo all arguments - $*
   echo no of arguments - $#
-
 }
 print_arguments abc 123 xyz
 
