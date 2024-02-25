@@ -1,4 +1,4 @@
-# learning-shell
+# learning shell
 
 topics of shell scripting
 
