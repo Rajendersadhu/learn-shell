@@ -3,7 +3,7 @@
 
   ls -A
 
-  Yum list installed | grep vim
+  yum list installed | grep vim
 
 
 
