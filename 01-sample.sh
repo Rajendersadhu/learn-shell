@@ -1,5 +1,7 @@
   ls -l
   pwd
-  dnf list installed | grep vim
+
+  yum list installed | grep vim
+  yum list available | grep vim
 
 
