@@ -3,4 +3,7 @@
 
   ls -A
 
+  yum list installed | grep vim
+
+
 
