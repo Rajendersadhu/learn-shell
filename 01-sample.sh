@@ -3,8 +3,11 @@
 
   ls -A
 
-  #yum list installed | grep vim
- #this is just comment
+  yum list installed | grep vim
+
+ # this is just comment
+
+
 
 
 
