@@ -5,3 +5,8 @@ while [ $a -gt 0 ]; do
   sleep 2
 done
 
+for component in frontend mongodb catalogue redis user cart mysql shipping rabbitmq payment dispatch ; do
+ echo creating component - $component
+ sleep 1
+  done
+
